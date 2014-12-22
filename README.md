@@ -35,1333 +35,224 @@ This keyboarded and encoded edition of the
 ##Content Summary##
 
 #####Front#####
-A relation of some yeares trauaile begunne anno 1626. Into Afrique and the greater Asia, especially 
+A
+DISCRIPTION
+OF THE PERSIAN
+MONARCHY
+Now beinge:
+THE
+ORIENTALL INDYES.Iles, & sother part's of the
+
+1. TO
+THE RIGHT
+HONORABLE,
+PHILIP,
+Earle of Pembroke and Mountgomerie, Baron
+Herbert of Caerdiff and Sherland, Lord Parr
+and Ross of Kendall, Fitz-Hugh, Marmyon,
+and Saint Qvintin, Lord Lieutenant
+of Kent, &c.
+NO sooner welcome home from trauell, thenCos•n, thou dost put forth to Sea agen;Ist not enough t' ha
+1. To his vvorthy Cosen,
+THOMAS HERBERT
+Esquire.
+NEc te poeniteat duros subiisse laboresAut operi insuetas attenuasse manus.Dum iuga montis Aper, flu
+1. To the Reader.
+
 #####Body#####
 
-1. A Description of the Cape of good Hope
-in Aethiopia.
-
-    _ The first is that much sung Verse, a-top of Churches.
-
-    _ The second Commandement.
-
-    _ The third Commandement.
-
-    _ The fourth Commandement.
-
-    _ Prayers to Mahomet.
-
-    _ The fift Commandement.
-
-    _ The sixt Commandement.
-
-    _ The seuenth Commandement.
-
-    _ The eight Commandement.
-
-1. A Description of the Sauage Inhabitants.
-
-    _ The first is that much sung Verse, a-top of Churches.
-
-    _ The second Commandement.
-
-    _ The third Commandement.
-
-    _ The fourth Commandement.
-
-    _ Prayers to Mahomet.
-
-    _ The fift Commandement.
-
-    _ The sixt Commandement.
-
-    _ The seuenth Commandement.
-
-    _ The eight Commandement.
-
-1. Madagascar.
-
-    _ The first is that much sung Verse, a-top of Churches.
-
-    _ The second Commandement.
-
-    _ The third Commandement.
-
-    _ The fourth Commandement.
-
-    _ Prayers to Mahomet.
-
-    _ The fift Commandement.
-
-    _ The sixt Commandement.
-
-    _ The seuenth Commandement.
-
-    _ The eight Commandement.
-
-1. Mohelia, its description.
-
-    _ The first is that much sung Verse, a-top of Churches.
-
-    _ The second Commandement.
-
-    _ The third Commandement.
-
-    _ The fourth Commandement.
-
-    _ Prayers to Mahomet.
-
-    _ The fift Commandement.
-
-    _ The sixt Commandement.
-
-    _ The seuenth Commandement.
-
-    _ The eight Commandement.
-
-1. Surat.
-
-    _ The first is that much sung Verse, a-top of Churches.
-
-    _ The second Commandement.
-
-    _ The third Commandement.
-
-    _ The fourth Commandement.
-
-    _ Prayers to Mahomet.
-
-    _ The fift Commandement.
-
-    _ The sixt Commandement.
-
-    _ The seuenth Commandement.
-
-    _ The eight Commandement.
-
-1. 
-A Description of the Bannyans in India.
-
-    _ The first is that much sung Verse, a-top of Churches.
-
-    _ The second Commandement.
-
-    _ The third Commandement.
-
-    _ The fourth Commandement.
-
-    _ Prayers to Mahomet.
-
-    _ The fift Commandement.
-
-    _ The sixt Commandement.
-
-    _ The seuenth Commandement.
-
-    _ The eight Commandement.
-
-1. Cambaya.
-
-    _ The first is that much sung Verse, a-top of Churches.
-
-    _ The second Commandement.
-
-    _ The third Commandement.
-
-    _ The fourth Commandement.
-
-    _ Prayers to Mahomet.
-
-    _ The fift Commandement.
-
-    _ The sixt Commandement.
-
-    _ The seuenth Commandement.
-
-    _ The eight Commandement.
-
-1. The Citie Diu.
-
-    _ The first is that much sung Verse, a-top of Churches.
-
-    _ The second Commandement.
-
-    _ The third Commandement.
-
-    _ The fourth Commandement.
-
-    _ Prayers to Mahomet.
-
-    _ The fift Commandement.
-
-    _ The sixt Commandement.
-
-    _ The seuenth Commandement.
-
-    _ The eight Commandement.
-
-1. Muskat.
-
-    _ The first is that much sung Verse, a-top of Churches.
-
-    _ The second Commandement.
-
-    _ The third Commandement.
-
-    _ The fourth Commandement.
-
-    _ Prayers to Mahomet.
-
-    _ The fift Commandement.
-
-    _ The sixt Commandement.
-
-    _ The seuenth Commandement.
-
-    _ The eight Commandement.
-
-1. Iasques.
-
-    _ The first is that much sung Verse, a-top of Churches.
-
-    _ The second Commandement.
-
-    _ The third Commandement.
-
-    _ The fourth Commandement.
-
-    _ Prayers to Mahomet.
-
-    _ The fift Commandement.
-
-    _ The sixt Commandement.
-
-    _ The seuenth Commandement.
-
-    _ The eight Commandement.
-
-1. Ormus.
-
-    _ The first is that much sung Verse, a-top of Churches.
-
-    _ The second Commandement.
-
-    _ The third Commandement.
-
-    _ The fourth Commandement.
-
-    _ Prayers to Mahomet.
-
-    _ The fift Commandement.
-
-    _ The sixt Commandement.
-
-    _ The seuenth Commandement.
-
-    _ The eight Commandement.
-
-1. Gombroone.
-
-    _ The first is that much sung Verse, a-top of Churches.
-
-    _ The second Commandement.
-
-    _ The third Commandement.
-
-    _ The fourth Commandement.
-
-    _ Prayers to Mahomet.
-
-    _ The fift Commandement.
-
-    _ The sixt Commandement.
-
-    _ The seuenth Commandement.
-
-    _ The eight Commandement.
-
-1. Our departure from Gombroone, towards
-Persia.
-
-    _ The first is that much sung Verse, a-top of Churches.
-
-    _ The second Commandement.
-
-    _ The third Commandement.
-
-    _ The fourth Commandement.
-
-    _ Prayers to Mahomet.
-
-    _ The fift Commandement.
-
-    _ The sixt Commandement.
-
-    _ The seuenth Commandement.
-
-    _ The eight Commandement.
-
-1. A Description of Larr.
-
-    _ The first is that much sung Verse, a-top of Churches.
-
-    _ The second Commandement.
-
-    _ The third Commandement.
-
-    _ The fourth Commandement.
-
-    _ Prayers to Mahomet.
-
-    _ The fift Commandement.
-
-    _ The sixt Commandement.
-
-    _ The seuenth Commandement.
-
-    _ The eight Commandement.
-
-1. Persepolis.
-
-    _ The first is that much sung Verse, a-top of Churches.
-
-    _ The second Commandement.
-
-    _ The third Commandement.
-
-    _ The fourth Commandement.
-
-    _ Prayers to Mahomet.
-
-    _ The fift Commandement.
-
-    _ The sixt Commandement.
-
-    _ The seuenth Commandement.
-
-    _ The eight Commandement.
-
-1. Chil-manor, or forty Towres.
-
-    _ The first is that much sung Verse, a-top of Churches.
-
-    _ The second Commandement.
-
-    _ The third Commandement.
-
-    _ The fourth Commandement.
-
-    _ Prayers to Mahomet.
-
-    _ The fift Commandement.
-
-    _ The sixt Commandement.
-
-    _ The seuenth Commandement.
-
-    _ The eight Commandement.
-
-1. Description of Shiras.
-
-    _ The first is that much sung Verse, a-top of Churches.
-
-    _ The second Commandement.
-
-    _ The third Commandement.
-
-    _ The fourth Commandement.
-
-    _ Prayers to Mahomet.
-
-    _ The fift Commandement.
-
-    _ The sixt Commandement.
-
-    _ The seuenth Commandement.
-
-    _ The eight Commandement.
-
-1. Our Ambassadours entrance into
-Spawhawn.
-
-    _ The first is that much sung Verse, a-top of Churches.
-
-    _ The second Commandement.
-
-    _ The third Commandement.
-
-    _ The fourth Commandement.
-
-    _ Prayers to Mahomet.
-
-    _ The fift Commandement.
-
-    _ The sixt Commandement.
-
-    _ The seuenth Commandement.
-
-    _ The eight Commandement.
-
-1. A Description of the Ielphelines
-in Persia.
-
-    _ The first is that much sung Verse, a-top of Churches.
-
-    _ The second Commandement.
-
-    _ The third Commandement.
-
-    _ The fourth Commandement.
-
-    _ Prayers to Mahomet.
-
-    _ The fift Commandement.
-
-    _ The sixt Commandement.
-
-    _ The seuenth Commandement.
-
-    _ The eight Commandement.
-
-1. A late Tragicall History of the
-Georgians, Christians.
-
-    _ The first is that much sung Verse, a-top of Churches.
-
-    _ The second Commandement.
-
-    _ The third Commandement.
-
-    _ The fourth Commandement.
-
-    _ Prayers to Mahomet.
-
-    _ The fift Commandement.
-
-    _ The sixt Commandement.
-
-    _ The seuenth Commandement.
-
-    _ The eight Commandement.
-
-1. A Description of Spawhawn.
-
-    _ The first is that much sung Verse, a-top of Churches.
-
-    _ The second Commandement.
-
-    _ The third Commandement.
-
-    _ The fourth Commandement.
-
-    _ Prayers to Mahomet.
-
-    _ The fift Commandement.
-
-    _ The sixt Commandement.
-
-    _ The seuenth Commandement.
-
-    _ The eight Commandement.
-
-1. A Description of Asharaff in
-Hyrcania.
-
-    _ The first is that much sung Verse, a-top of Churches.
-
-    _ The second Commandement.
-
-    _ The third Commandement.
-
-    _ The fourth Commandement.
-
-    _ Prayers to Mahomet.
-
-    _ The fift Commandement.
-
-    _ The sixt Commandement.
-
-    _ The seuenth Commandement.
-
-    _ The eight Commandement.
-
-1. Asharaff.
-
-    _ The first is that much sung Verse, a-top of Churches.
-
-    _ The second Commandement.
-
-    _ The third Commandement.
-
-    _ The fourth Commandement.
-
-    _ Prayers to Mahomet.
-
-    _ The fift Commandement.
-
-    _ The sixt Commandement.
-
-    _ The seuenth Commandement.
-
-    _ The eight Commandement.
-
-1. The Ambassadours entertainment by the
-King of Persia.
-
-    _ The first is that much sung Verse, a-top of Churches.
-
-    _ The second Commandement.
-
-    _ The third Commandement.
-
-    _ The fourth Commandement.
-
-    _ Prayers to Mahomet.
-
-    _ The fift Commandement.
-
-    _ The sixt Commandement.
-
-    _ The seuenth Commandement.
-
-    _ The eight Commandement.
-
-1. A Description of Farrabaut, and the
+1. AN
+ITENERARIE
+OF SOME YEARES
+Trauaile, through diuers parts of Asia and
+Africke, with the description of the
+Orientall Indies, and some Iles adjacent.
+Especially the Territories of the now
+Persian Monarchie: included betwixt
+Me sopotamia, Indus, and the
 Caspian Sea.
 
-    _ The first is that much sung Verse, a-top of Churches.
+    _ A Description of the Cape of good Hope
+in Aethiopia.
 
-    _ The second Commandement.
+    _ A Description of the Sauage Inhabitants.
 
-    _ The third Commandement.
+    _ Madagascar.
 
-    _ The fourth Commandement.
+    _ Mohelia, its description.
 
-    _ Prayers to Mahomet.
+    _ Surat.
 
-    _ The fift Commandement.
+    _ 
+A Description of the Bannyans in India.
 
-    _ The sixt Commandement.
+    _ Cambaya.
 
-    _ The seuenth Commandement.
+    _ The Citie Diu.
 
-    _ The eight Commandement.
+    _ Muskat.
 
-1. A Description of Omoall.
+    _ Iasques.
 
-    _ The first is that much sung Verse, a-top of Churches.
+    _ Ormus.
 
-    _ The second Commandement.
+    _ Gombroone.
 
-    _ The third Commandement.
+    _ Our departure from Gombroone, towards
+Persia.
 
-    _ The fourth Commandement.
+    _ A Description of Larr.
 
-    _ Prayers to Mahomet.
+    _ Persepolis.
 
-    _ The fift Commandement.
+    _ Chil-manor, or forty Towres.
 
-    _ The sixt Commandement.
+    _ Description of Shiras.
 
-    _ The seuenth Commandement.
+    _ Our Ambassadours entrance into
+Spawhawn.
 
-    _ The eight Commandement.
+    _ A Description of the Ielphelines
+in Persia.
 
-1. Mount Taurus.
+    _ A late Tragicall History of the
+Georgians, Christians.
 
-    _ The first is that much sung Verse, a-top of Churches.
+    _ A Description of Spawhawn.
 
-    _ The second Commandement.
+    _ A Description of Asharaff in
+Hyrcania.
 
-    _ The third Commandement.
+    _ Asharaff.
 
-    _ The fourth Commandement.
+    _ The Ambassadours entertainment by the
+King of Persia.
 
-    _ Prayers to Mahomet.
+    _ A Description of Farrabaut, and the
+Caspian Sea.
 
-    _ The fift Commandement.
+    _ A Description of Omoall.
 
-    _ The sixt Commandement.
+    _ Mount Taurus.
 
-    _ The seuenth Commandement.
+    _ Damoan.
 
-    _ The eight Commandement.
+    _ Tyroan.
 
-1. Damoan.
+    _ Tauris, or Ecbatane.
 
-    _ The first is that much sung Verse, a-top of Churches.
+    _ Cazbeen.
 
-    _ The second Commandement.
+    _ Occurrents in Cazbeen.
 
-    _ The third Commandement.
-
-    _ The fourth Commandement.
-
-    _ Prayers to Mahomet.
-
-    _ The fift Commandement.
-
-    _ The sixt Commandement.
-
-    _ The seuenth Commandement.
-
-    _ The eight Commandement.
-
-1. Tyroan.
-
-    _ The first is that much sung Verse, a-top of Churches.
-
-    _ The second Commandement.
-
-    _ The third Commandement.
-
-    _ The fourth Commandement.
-
-    _ Prayers to Mahomet.
-
-    _ The fift Commandement.
-
-    _ The sixt Commandement.
-
-    _ The seuenth Commandement.
-
-    _ The eight Commandement.
-
-1. Tauris, or Ecbatane.
-
-    _ The first is that much sung Verse, a-top of Churches.
-
-    _ The second Commandement.
-
-    _ The third Commandement.
-
-    _ The fourth Commandement.
-
-    _ Prayers to Mahomet.
-
-    _ The fift Commandement.
-
-    _ The sixt Commandement.
-
-    _ The seuenth Commandement.
-
-    _ The eight Commandement.
-
-1. Cazbeen.
-
-    _ The first is that much sung Verse, a-top of Churches.
-
-    _ The second Commandement.
-
-    _ The third Commandement.
-
-    _ The fourth Commandement.
-
-    _ Prayers to Mahomet.
-
-    _ The fift Commandement.
-
-    _ The sixt Commandement.
-
-    _ The seuenth Commandement.
-
-    _ The eight Commandement.
-
-1. Occurrents in Cazbeen.
-
-    _ The first is that much sung Verse, a-top of Churches.
-
-    _ The second Commandement.
-
-    _ The third Commandement.
-
-    _ The fourth Commandement.
-
-    _ Prayers to Mahomet.
-
-    _ The fift Commandement.
-
-    _ The sixt Commandement.
-
-    _ The seuenth Commandement.
-
-    _ The eight Commandement.
-
-1. The death of Sir Robert Sherley at
+    _ The death of Sir Robert Sherley at
 Cazbeen.
 
-    _ The first is that much sung Verse, a-top of Churches.
-
-    _ The second Commandement.
-
-    _ The third Commandement.
-
-    _ The fourth Commandement.
-
-    _ Prayers to Mahomet.
-
-    _ The fift Commandement.
-
-    _ The sixt Commandement.
-
-    _ The seuenth Commandement.
-
-    _ The eight Commandement.
-
-1. The death of Sir Dodmore Cotton
+    _ The death of Sir Dodmore Cotton
 Ambassadour, at Cazbeen.
 
-    _ The first is that much sung Verse, a-top of Churches.
+    _ The Emperour of Persia's Firman.
 
-    _ The second Commandement.
-
-    _ The third Commandement.
-
-    _ The fourth Commandement.
-
-    _ Prayers to Mahomet.
-
-    _ The fift Commandement.
-
-    _ The sixt Commandement.
-
-    _ The seuenth Commandement.
-
-    _ The eight Commandement.
-
-1. The Emperour of Persia's Firman.
-
-    _ The first is that much sung Verse, a-top of Churches.
-
-    _ The second Commandement.
-
-    _ The third Commandement.
-
-    _ The fourth Commandement.
-
-    _ Prayers to Mahomet.
-
-    _ The fift Commandement.
-
-    _ The sixt Commandement.
-
-    _ The seuenth Commandement.
-
-    _ The eight Commandement.
-
-1. 
+    _ 
 Titles of the King of Persia may
 be these.
 
-    _ The first is that much sung Verse, a-top of Churches.
+    _ Our departure from the Persian Court.
 
-    _ The second Commandement.
+    _ A Description of Coom.
 
-    _ The third Commandement.
+    _ A description of Cashan.
 
-    _ The fourth Commandement.
+    _ A description of Babylon in Chaldaea.
 
-    _ Prayers to Mahomet.
+    _ Bagdat, or Babilons ruines.
 
-    _ The fift Commandement.
+    _ A description of Sushan.
 
-    _ The sixt Commandement.
+    _ Paradice.
 
-    _ The seuenth Commandement.
-
-    _ The eight Commandement.
-
-1. Our departure from the Persian Court.
-
-    _ The first is that much sung Verse, a-top of Churches.
-
-    _ The second Commandement.
-
-    _ The third Commandement.
-
-    _ The fourth Commandement.
-
-    _ Prayers to Mahomet.
-
-    _ The fift Commandement.
-
-    _ The sixt Commandement.
-
-    _ The seuenth Commandement.
-
-    _ The eight Commandement.
-
-1. A Description of Coom.
-
-    _ The first is that much sung Verse, a-top of Churches.
-
-    _ The second Commandement.
-
-    _ The third Commandement.
-
-    _ The fourth Commandement.
-
-    _ Prayers to Mahomet.
-
-    _ The fift Commandement.
-
-    _ The sixt Commandement.
-
-    _ The seuenth Commandement.
-
-    _ The eight Commandement.
-
-1. A description of Cashan.
-
-    _ The first is that much sung Verse, a-top of Churches.
-
-    _ The second Commandement.
-
-    _ The third Commandement.
-
-    _ The fourth Commandement.
-
-    _ Prayers to Mahomet.
-
-    _ The fift Commandement.
-
-    _ The sixt Commandement.
-
-    _ The seuenth Commandement.
-
-    _ The eight Commandement.
-
-1. A description of Babylon in Chaldaea.
-
-    _ The first is that much sung Verse, a-top of Churches.
-
-    _ The second Commandement.
-
-    _ The third Commandement.
-
-    _ The fourth Commandement.
-
-    _ Prayers to Mahomet.
-
-    _ The fift Commandement.
-
-    _ The sixt Commandement.
-
-    _ The seuenth Commandement.
-
-    _ The eight Commandement.
-
-1. Bagdat, or Babilons ruines.
-
-    _ The first is that much sung Verse, a-top of Churches.
-
-    _ The second Commandement.
-
-    _ The third Commandement.
-
-    _ The fourth Commandement.
-
-    _ Prayers to Mahomet.
-
-    _ The fift Commandement.
-
-    _ The sixt Commandement.
-
-    _ The seuenth Commandement.
-
-    _ The eight Commandement.
-
-1. A description of Sushan.
-
-    _ The first is that much sung Verse, a-top of Churches.
-
-    _ The second Commandement.
-
-    _ The third Commandement.
-
-    _ The fourth Commandement.
-
-    _ Prayers to Mahomet.
-
-    _ The fift Commandement.
-
-    _ The sixt Commandement.
-
-    _ The seuenth Commandement.
-
-    _ The eight Commandement.
-
-1. Paradice.
-
-    _ The first is that much sung Verse, a-top of Churches.
-
-    _ The second Commandement.
-
-    _ The third Commandement.
-
-    _ The fourth Commandement.
-
-    _ Prayers to Mahomet.
-
-    _ The fift Commandement.
-
-    _ The sixt Commandement.
-
-    _ The seuenth Commandement.
-
-    _ The eight Commandement.
-
-1. A discourse of the life and habit of the
+    _ A discourse of the life and habit of the
 Persians at this present.
 
-    _ The first is that much sung Verse, a-top of Churches.
+    _ The Religion of the Persians.
 
-    _ The second Commandement.
+    _ The Persian's Commandements.
 
-    _ The third Commandement.
+      * The first is that much sung Verse, a-top of Churches.
 
-    _ The fourth Commandement.
+      * The second Commandement.
 
-    _ Prayers to Mahomet.
+      * The third Commandement.
 
-    _ The fift Commandement.
+      * The fourth Commandement.
 
-    _ The sixt Commandement.
+      * Prayers to Mahomet.
 
-    _ The seuenth Commandement.
+      * The fift Commandement.
 
-    _ The eight Commandement.
+      * The sixt Commandement.
 
-1. The Religion of the Persians.
+      * The seuenth Commandement.
 
-    _ The first is that much sung Verse, a-top of Churches.
+      * The eight Commandement.
 
-    _ The second Commandement.
-
-    _ The third Commandement.
-
-    _ The fourth Commandement.
-
-    _ Prayers to Mahomet.
-
-    _ The fift Commandement.
-
-    _ The sixt Commandement.
-
-    _ The seuenth Commandement.
-
-    _ The eight Commandement.
-
-1. The Persian's Commandements.
-
-    _ The first is that much sung Verse, a-top of Churches.
-
-    _ The second Commandement.
-
-    _ The third Commandement.
-
-    _ The fourth Commandement.
-
-    _ Prayers to Mahomet.
-
-    _ The fift Commandement.
-
-    _ The sixt Commandement.
-
-    _ The seuenth Commandement.
-
-    _ The eight Commandement.
-
-1. Emperours, Kings, and Caliphs of
+    _ Emperours, Kings, and Caliphs of
 Persia successiuelie.
 
-    _ The first is that much sung Verse, a-top of Churches.
+    _ Of Mallabar.
 
-    _ The second Commandement.
+    _ Of the Isle Zeyloon.
 
-    _ The third Commandement.
+    _ A description of Choromandell.
 
-    _ The fourth Commandement.
+    _ A description of Casta.
 
-    _ Prayers to Mahomet.
-
-    _ The fift Commandement.
-
-    _ The sixt Commandement.
-
-    _ The seuenth Commandement.
-
-    _ The eight Commandement.
-
-1. Of Mallabar.
-
-    _ The first is that much sung Verse, a-top of Churches.
-
-    _ The second Commandement.
-
-    _ The third Commandement.
-
-    _ The fourth Commandement.
-
-    _ Prayers to Mahomet.
-
-    _ The fift Commandement.
-
-    _ The sixt Commandement.
-
-    _ The seuenth Commandement.
-
-    _ The eight Commandement.
-
-1. Of the Isle Zeyloon.
-
-    _ The first is that much sung Verse, a-top of Churches.
-
-    _ The second Commandement.
-
-    _ The third Commandement.
-
-    _ The fourth Commandement.
-
-    _ Prayers to Mahomet.
-
-    _ The fift Commandement.
-
-    _ The sixt Commandement.
-
-    _ The seuenth Commandement.
-
-    _ The eight Commandement.
-
-1. A description of Choromandell.
-
-    _ The first is that much sung Verse, a-top of Churches.
-
-    _ The second Commandement.
-
-    _ The third Commandement.
-
-    _ The fourth Commandement.
-
-    _ Prayers to Mahomet.
-
-    _ The fift Commandement.
-
-    _ The sixt Commandement.
-
-    _ The seuenth Commandement.
-
-    _ The eight Commandement.
-
-1. A description of Casta.
-
-    _ The first is that much sung Verse, a-top of Churches.
-
-    _ The second Commandement.
-
-    _ The third Commandement.
-
-    _ The fourth Commandement.
-
-    _ Prayers to Mahomet.
-
-    _ The fift Commandement.
-
-    _ The sixt Commandement.
-
-    _ The seuenth Commandement.
-
-    _ The eight Commandement.
-
-1. 
+    _ 
 A description of Pegu.
 
-    _ The first is that much sung Verse, a-top of Churches.
+    _ A description of Syam.
 
-    _ The second Commandement.
+    _ A description of Patania.
 
-    _ The third Commandement.
-
-    _ The fourth Commandement.
-
-    _ Prayers to Mahomet.
-
-    _ The fift Commandement.
-
-    _ The sixt Commandement.
-
-    _ The seuenth Commandement.
-
-    _ The eight Commandement.
-
-1. A description of Syam.
-
-    _ The first is that much sung Verse, a-top of Churches.
-
-    _ The second Commandement.
-
-    _ The third Commandement.
-
-    _ The fourth Commandement.
-
-    _ Prayers to Mahomet.
-
-    _ The fift Commandement.
-
-    _ The sixt Commandement.
-
-    _ The seuenth Commandement.
-
-    _ The eight Commandement.
-
-1. A description of Patania.
-
-    _ The first is that much sung Verse, a-top of Churches.
-
-    _ The second Commandement.
-
-    _ The third Commandement.
-
-    _ The fourth Commandement.
-
-    _ Prayers to Mahomet.
-
-    _ The fift Commandement.
-
-    _ The sixt Commandement.
-
-    _ The seuenth Commandement.
-
-    _ The eight Commandement.
-
-1. A description of Macassar, or the
+    _ A description of Macassar, or the
 Celebes.
 
-    _ The first is that much sung Verse, a-top of Churches.
+    _ A description of Sumatra.
 
-    _ The second Commandement.
+    _ A description of Poligundee.
 
-    _ The third Commandement.
+    _ A description of Iaua Maior.
 
-    _ The fourth Commandement.
+    _ The Malayan Tongue.
 
-    _ Prayers to Mahomet.
-
-    _ The fift Commandement.
-
-    _ The sixt Commandement.
-
-    _ The seuenth Commandement.
-
-    _ The eight Commandement.
-
-1. A description of Sumatra.
-
-    _ The first is that much sung Verse, a-top of Churches.
-
-    _ The second Commandement.
-
-    _ The third Commandement.
-
-    _ The fourth Commandement.
-
-    _ Prayers to Mahomet.
-
-    _ The fift Commandement.
-
-    _ The sixt Commandement.
-
-    _ The seuenth Commandement.
-
-    _ The eight Commandement.
-
-1. A description of Poligundee.
-
-    _ The first is that much sung Verse, a-top of Churches.
-
-    _ The second Commandement.
-
-    _ The third Commandement.
-
-    _ The fourth Commandement.
-
-    _ Prayers to Mahomet.
-
-    _ The fift Commandement.
-
-    _ The sixt Commandement.
-
-    _ The seuenth Commandement.
-
-    _ The eight Commandement.
-
-1. A description of Iaua Maior.
-
-    _ The first is that much sung Verse, a-top of Churches.
-
-    _ The second Commandement.
-
-    _ The third Commandement.
-
-    _ The fourth Commandement.
-
-    _ Prayers to Mahomet.
-
-    _ The fift Commandement.
-
-    _ The sixt Commandement.
-
-    _ The seuenth Commandement.
-
-    _ The eight Commandement.
-
-1. The Malayan Tongue.
-
-    _ The first is that much sung Verse, a-top of Churches.
-
-    _ The second Commandement.
-
-    _ The third Commandement.
-
-    _ The fourth Commandement.
-
-    _ Prayers to Mahomet.
-
-    _ The fift Commandement.
-
-    _ The sixt Commandement.
-
-    _ The seuenth Commandement.
-
-    _ The eight Commandement.
-
-1. The people in Iaua call these thus, somewhat
+    _ The people in Iaua call these thus, somewhat
 differing from the Malay.
 
-    _ The first is that much sung Verse, a-top of Churches.
-
-    _ The second Commandement.
-
-    _ The third Commandement.
-
-    _ The fourth Commandement.
-
-    _ Prayers to Mahomet.
-
-    _ The fift Commandement.
-
-    _ The sixt Commandement.
-
-    _ The seuenth Commandement.
-
-    _ The eight Commandement.
-
-1. These are the numbers in the
+    _ These are the numbers in the
 Malayan Speech.
 
-    _ The first is that much sung Verse, a-top of Churches.
+    _ Of China.
 
-    _ The second Commandement.
-
-    _ The third Commandement.
-
-    _ The fourth Commandement.
-
-    _ Prayers to Mahomet.
-
-    _ The fift Commandement.
-
-    _ The sixt Commandement.
-
-    _ The seuenth Commandement.
-
-    _ The eight Commandement.
-
-1. Of China.
-
-    _ The first is that much sung Verse, a-top of Churches.
-
-    _ The second Commandement.
-
-    _ The third Commandement.
-
-    _ The fourth Commandement.
-
-    _ Prayers to Mahomet.
-
-    _ The fift Commandement.
-
-    _ The sixt Commandement.
-
-    _ The seuenth Commandement.
-
-    _ The eight Commandement.
-
-1. 
+    _ 
 A description of Mauritius.
 
-    _ The first is that much sung Verse, a-top of Churches.
+    _ A description of Sancta Helena.
 
-    _ The second Commandement.
-
-    _ The third Commandement.
-
-    _ The fourth Commandement.
-
-    _ Prayers to Mahomet.
-
-    _ The fift Commandement.
-
-    _ The sixt Commandement.
-
-    _ The seuenth Commandement.
-
-    _ The eight Commandement.
-
-1. A description of Sancta Helena.
-
-    _ The first is that much sung Verse, a-top of Churches.
-
-    _ The second Commandement.
-
-    _ The third Commandement.
-
-    _ The fourth Commandement.
-
-    _ Prayers to Mahomet.
-
-    _ The fift Commandement.
-
-    _ The sixt Commandement.
-
-    _ The seuenth Commandement.
-
-    _ The eight Commandement.
-
-1. A Discourse and proofe that Madoc ap Owen
+    _ A Discourse and proofe that Madoc ap Owen
 Gwynedd first found out that Continent
 now call'd America.
 
-    _ The first is that much sung Verse, a-top of Churches.
+1. AN ALPHABETICAL
+TABLE OF SOME MATTERS
+contained in these Trauailes, for the Readers
+better ease and direction.
 
-    _ The second Commandement.
-
-    _ The third Commandement.
-
-    _ The fourth Commandement.
-
-    _ Prayers to Mahomet.
-
-    _ The fift Commandement.
-
-    _ The sixt Commandement.
-
-    _ The seuenth Commandement.
-
-    _ The eight Commandement.
+1. ERRATA.
 
 #####Back#####
-A relation of some yeares trauaile begunne anno 1626. Into Afrique and the greater Asia, especially 
+LONDON,
+Printed by William Stansby,
+1634.
 **Types of content**
 
   * There are 123 **verse** lines!
